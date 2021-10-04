@@ -2,10 +2,6 @@
     text-decoration: underline;
 }
 
-#about_button:hover {
-    color: #47126b;
-}
-
 .content {
     align-items: center;
     padding-top: 100px;
